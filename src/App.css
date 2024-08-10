@@ -1,0 +1,9 @@
+*{
+  /* background-color: #121212; */
+  font-family: 'Circular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  letter-spacing: 0.7px;
+}
+
+body {
+  transition: background 0.5s ease-in-out;
+}
